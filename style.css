@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+/* header */
+.container-one{
+
+    background-color: lightblue;
+    height: 80px;
+   margin: 0 auto;
+  
+}
+
+/* sezione 1 */
+.sezioneprima{
+
+    background-color:blue;
+    height: 20%;
+    width: 50%;
+}
